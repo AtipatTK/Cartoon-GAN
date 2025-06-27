@@ -25,3 +25,9 @@
 ```bash
 git clone https://github.com/AtipatTK/Cartoon-GAN.git
 cd Cartoon-GAN
+
+## 🔗 ลิงก์ตัวอย่างการใช้งาน
+
+👉 [เปิดหน้าเว็บ](https://atipatTK.github.io/Cartoon-GAN/)
+
+
